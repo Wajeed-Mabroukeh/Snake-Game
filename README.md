@@ -38,6 +38,3 @@ To run the Snake Game locally:
 
 ## Contributing
 Feel free to submit pull requests for improvements or additional features.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
